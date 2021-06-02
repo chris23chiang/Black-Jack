@@ -12,7 +12,7 @@ print("\N{black club suit}") #或 print(chr(9827))
 
 """
 
-print("歡迎光臨江江Black Jack!")
+print("Welcome to Chris's Black Jack!")
 
 import random
 
